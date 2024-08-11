@@ -10,7 +10,8 @@ from the deck. However if at the first two draw
 results a sum of 8 and 9, the dealer won't draw
 additional card anymore.
 
-# demo Output is attached at the png 
+# demo Output is attached at the assets
 
 # contributer
-    karipireddy Surya Teja Gopal reddy-(https://github.com/KaripireddySuryaTeja)-karipireddysuryateja@gmail.com
+    karipireddy Surya Teja Gopal reddy-(https://github.com/KaripireddySuryaTeja)
+    -karipireddysuryateja@gmail.com
