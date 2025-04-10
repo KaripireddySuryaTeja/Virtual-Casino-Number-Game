@@ -1,4 +1,4 @@
-# Casino number game
+# Number game
 # This game provides you a lot of entertainment and joy as this is the virtual type   
 
 Player chooses between two sides either
@@ -13,5 +13,5 @@ additional card anymore.
 #### Demo Output is attached at the assets
 
 # Contributer
-    karipireddy Surya Teja Gopal reddy-(https://github.com/KaripireddySuryaTeja)
+    karipireddy Surya Teja Gopal Reddy-(https://github.com/KaripireddySuryaTeja)
     -karipireddysuryateja@gmail.com
