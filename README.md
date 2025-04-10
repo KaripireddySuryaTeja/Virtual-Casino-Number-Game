@@ -1,5 +1,5 @@
 # Number game
-# This game provides you a lot of entertainment and joy as this is the virtual type   
+This game provides you a lot of entertainment and joy as this is the virtual type   
 ## Rules
 * Player chooses between two sides either 'banker' or 'player'. After drawing two cards the one
 * who has the nearest number to 9 wins.
